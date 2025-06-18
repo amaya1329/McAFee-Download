@@ -10,7 +10,7 @@ For Download McAfee Click This Link 👉
 -----------------------------
 .. image:: click-download.png
    :alt: My Project Logo
-   :width: 300px
+   :width: 400px
    :align: center
    :target: https://i-downloadsoftwares.com/
 
