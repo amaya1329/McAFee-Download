@@ -6,7 +6,7 @@ McAfee Download: A Comprehensive Guide to Protecting Your Digital World
    :caption: Contents:
 ________________________________________
 
-For Download McAfee Click on This Link 👉
+For Download McAfee Click on This Button: 👉
 -----------------------------
 .. image:: click-download.png
    :alt: My Project Logo
