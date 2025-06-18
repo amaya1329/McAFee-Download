@@ -6,7 +6,7 @@ McAfee Download: A Comprehensive Guide to Protecting Your Digital World
    :caption: Contents:
 ________________________________________
 
-For Contact McAfee Customer Service Click This Link 👉
+For Download McAfee Click This Link 👉
 -----------------------------
 .. image:: cilck-download.png
    :alt: My Project Logo
