@@ -8,7 +8,7 @@ ________________________________________
 
 For Download McAfee Click This Link 👉
 -----------------------------
-.. image:: cilck-download.png
+.. image:: click-download.png
    :alt: My Project Logo
    :width: 250px
    :align: center
